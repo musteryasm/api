@@ -3,6 +3,6 @@ bs4==0.0.1
 Django==3.2.21
 Flask==2.2.3
 requests==2.31.0
-scikit-learn==1.2.2
+scikit-learn==1.0.2
 joblib==1.2.0
 gunicorn==21.2.0
